@@ -30,7 +30,7 @@ jobs:
 
       #Change the app-name to match what was provided to you in the publish settings file, this is in a naming convention of 'COURSENAME-STUDENTUID'
 
-        app-name: 'cmst385-UMGC-smccall9
+        app-name: 'cmst385-smccall9
 
         slot-name: 'production'
 
